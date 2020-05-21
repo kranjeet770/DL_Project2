@@ -7,4 +7,5 @@ Sequential is imported from keras. 2 Conv2D layers are added with first with 32 
 
 
 Model is created and fit with X_train and Y_train with 10 no. of iteration. Now,learning curve is plotted.
-Result: 'loss':0.7440102100372314  'sparse_categorical_accuracy':  0.7369800209999084' val_loss': 0.7899489998817444],'val_sparse_categorical_accuracy': 0.7281000018119812
+Result: 
+loss: 0.6612 - sparse_categorical_accuracy: 0.7659 - val_loss: 0.8150 - val_sparse_categorical_accuracy: 0.7255
